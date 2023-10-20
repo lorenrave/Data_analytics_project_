@@ -6,15 +6,19 @@ con el objetivo principal de realizar un análisis de datos exhaustivo para inve
 
 en el ámbito de la aviación.
 
+
 #  Tecnologías utilizadas
 
-Se utilizó Jupyter Notebook con las librerías Seaborn y Matplotlib para explorar visualmente los datos [Haz clic aquí para ver el archivo](https://github.com/lorenrave/Data_analytics_project_/blob/main/EDA.ipynb).
+Se utilizó Jupyter Notebook con las librerías Seaborn y Matplotlib para explorar visualmente los datos.
 
-Donde se generaron gráficos, histogramas y visualizaciones pertinentes para entender mejor la distribución y las tendencias en los datos.
+Donde se generaron gráficos, histogramas y visualizaciones pertinentes para entender mejor la distribución y las tendencias en los datos. 
 
-También se crearon Visualizaciones Interactivas en Power BI para proporcionar una vista más dinámica y accesible de los resultados.
+[Puedes revisar el análisis exploratorio de datos (EDA) en Jupyter Notebook haciendo clic aqui:](https://github.com/lorenrave/Data_analytics_project_/blob/main/EDA.ipynb)
+
+También se crearon visualizaciones interactivas en Power BI para proporcionar una vista más dinámica y accesible de los resultados brindando una perspectiva más inmersiva de los datos. 
 
 [Para poder ver el Dashboard realizado con Power BI haz clic en este enlace](https://github.com/lorenrave/Data_analytics_project_/blob/main/accidentes_analytics.pbix)
+
 
 ## Procesamiento de los datos: ETL
 
@@ -55,6 +59,7 @@ no se tomaron medidas adicionales en relación con los outliers.
 
 
  ## Conclusiones:
+ 
  
 ![Imagen sobre el dashboard](https://github.com/lorenrave/Data_analytics_project_/blob/main/data/Dashboard.analytics.jpg)
 
