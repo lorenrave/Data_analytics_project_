@@ -14,34 +14,7 @@ histogramas y visualizaciones pertinentes para entender mejor la distribución y
 
 También se crearon Visualizaciones Interactivas en Power BI para proporcionar una vista más dinámica y accesible de los resultados.
 
-## Diccionario de datos
-
-'Fecha': fecha del accidente.
-
-'Hora': hora del accidente.
-
-'Operador': aerolínea operadora de la aeronave accidentada.
-
-'Ruta': ruta del accidente.
-
-'Tipo de avion': tipo de la aeronave.
-
-'Matricula de avion': código de registro de la aeronave.
-
-'Todos a bordo': cantidad total personas a bordo de la aeronave.
-
-'Tripulacion a bordo': cantidad de tripulantes(personal de vuelo) de la aeronave.
-
-'Cantidad de fallecidos': cantidad total de muertes de personas a bordo de la aeronave.
-
-'Pasajeros fatales':cantidad de muertes de pasajeros.
-
-'Miembros fatales':cantidad de muertes de tripulantes.
-
-'Afectados en tierra': cantidad de muertes de personas en tierra(no estaban a bordo).
-
-'Descripcion del accidente': descripción de accidente.
-
+[Haz clic aquí para ver el archivo](https://github.com/lorenrave/Data_analytics_project_/blob/main/accidentes_analytics.pbix))
 
 ## Procesamiento de los datos: ETL
 
@@ -82,6 +55,8 @@ no se tomaron medidas adicionales en relación con los outliers.
 
 
  ## Conclusiones:
+![Imagen sobre el dashboard](https://github.com/lorenrave/Data_analytics_project_/blob/main/data/Dashboard.analytics.jpg)
+
 
  
   A lo largo de los años, hemos observado una marcada disminución en la frecuencia de accidentes aéreos, 
