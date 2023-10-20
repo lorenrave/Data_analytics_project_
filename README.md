@@ -13,7 +13,7 @@ Se utilizó Jupyter Notebook con las librerías Seaborn y Matplotlib para explor
 
 Donde se generaron gráficos, histogramas y visualizaciones pertinentes para entender mejor la distribución y las tendencias en los datos. 
 
-[Puedes revisar el análisis exploratorio de datos (EDA) en Jupyter Notebook haciendo clic aqui:](https://github.com/lorenrave/Data_analytics_project_/blob/main/EDA.ipynb)
+[Puedes revisar el análisis exploratorio de datos (EDA) en Jupyter Notebook haciendo clic aqui](https://github.com/lorenrave/Data_analytics_project_/blob/main/EDA.ipynb)
 
 También se crearon visualizaciones interactivas en Power BI para proporcionar una vista más dinámica y accesible de los resultados brindando una perspectiva más inmersiva de los datos. 
 
