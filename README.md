@@ -62,7 +62,7 @@ no se tomaron medidas adicionales en relación con los outliers.
  ## Conclusiones:
  
  
-![Imagen sobre el dashboard](https://github.com/lorenrave/Data_analytics_project_/blob/main/data/Dashboard.analytics.jpg)
+![Imagen sobre el dashboard](https://github.com/lorenrave/Data_analytics_project_/blob/main/data/Dashboard.analytics.png)
 
 
  
